@@ -15,7 +15,7 @@ Atualmente moro em São Pualo - Sp estou aprendo Python, estou ingressando na á
 
 ## Github Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uNote-MGG&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uNote-MGG&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## Liguagem mais usada.
 
