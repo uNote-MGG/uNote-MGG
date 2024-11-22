@@ -1,6 +1,6 @@
 ## Olá! Me chamo Michel G Gomes.
 
-Atualmente moro em São Pualo - Sp estou aprendo Python, estou ingressando na área de tecnologia iniciano meus estudo em 11/24.
+Atualmente moro em São Paulo - Sp estou aprendo Python, estou ingressando na área de tecnologia iniciano meus estudo em 11/24.
 
 
 ### Conecte-se comigo
